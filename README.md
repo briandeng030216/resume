@@ -1,9 +1,5 @@
-- 👋 Hi, I’m Wuhuan/Brian Deng
-- 👀 I’m interested in sports analytics, predictions, and trading
-- 🌱 I’m currently learning Machine Learning, Statistics
-- 📫 How to reach me briandeng16@gmail.com
-- 😄 Pronouns: he/him/his
-- 🍔 Language: Python, Java, Matlab, R
+# Wuhuan/Brian Deng
+## Contact: +1 858-3050-333(US)/+ 86 182-2831-6755(China)
 
 <!---
 briandeng030216/briandeng030216 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
