@@ -81,6 +81,12 @@ Link: https://github.com/briandeng030216/DSC30-Final-Project
 - **Shuffling System Design:** Implemented a robust shuffling system using algorithms to simulate realistic card shuffling. Ensured randomness and fairness in card distribution, adhering to standard blackjack rules and enhancing the game's credibility.
 - **Winning System Design:** Designed and integrated a winning system to determine game outcomes based on standard blackjack rules. Created logic to evaluate player and dealer hands, handle bets, and calculate winnings or losses accurately.
 
+## Soccer Games Analysis and Prediction(07/2022 - 09/2022)(Python)
+- **Feature Engineering:** Created new variables such as offensive efficiency and defensive stability to provide deeper insights into team performance. Developed algorithms for feature selection and sorting to rank teams based on these newly engineered variables. Conducted data normalization and standardization to ensure the consistency and accuracy of the variables across different datasets.
+- **Comparative Analysis:** Conducted detailed comparative analysis and hypothesis testing of playing styles across different leagues. Identified key differences, such as the preference for cross plays in the Premier League versus possession play in La Liga. Analyzed historical match data to uncover trends and patterns unique to each league.
+- **Data Visulization:** Employed Matplotlib and Seaborn to create comprehensive visualizations of key metrics across teams and leagues. Created visual comparisons of team performance metrics to highlight strengths and weaknesses.
+- **Predictive Modeling:** Applied linear regression, decision trees, and machine learning techniques to build predictive models for game outcomes. Utilized model predictions to assist in strategic planning for team development and match preparations.
+
 <!---
 briandeng030216/briandeng030216 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
