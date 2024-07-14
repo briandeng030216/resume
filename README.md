@@ -82,6 +82,7 @@ Link: https://github.com/briandeng030216/DSC30-Final-Project
 - **Winning System Design:** Designed and integrated a winning system to determine game outcomes based on standard blackjack rules. Created logic to evaluate player and dealer hands, handle bets, and calculate winnings or losses accurately.
 
 ## Soccer Games Analysis and Prediction(07/2022 - 09/2022)(Python)
+Link: https://docs.google.com/document/d/1EiRPtrcLS9xAlfOuJU6768QEM4vZ5KnJGX5Xh9OLoWs/edit?usp=sharing
 - **Feature Engineering:** Created new variables such as offensive efficiency and defensive stability to provide deeper insights into team performance. Developed algorithms for feature selection and sorting to rank teams based on these newly engineered variables. Conducted data normalization and standardization to ensure the consistency and accuracy of the variables across different datasets.
 - **Comparative Analysis:** Conducted detailed comparative analysis and hypothesis testing of playing styles across different leagues. Identified key differences, such as the preference for cross plays in the Premier League versus possession play in La Liga. Analyzed historical match data to uncover trends and patterns unique to each league.
 - **Data Visulization:** Employed Matplotlib and Seaborn to create comprehensive visualizations of key metrics across teams and leagues. Created visual comparisons of team performance metrics to highlight strengths and weaknesses.
