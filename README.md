@@ -8,7 +8,7 @@
 - briandeng16@gmail.com(US)
 - briandeng030216@163.com(CHN)
 
-# Education
+# Educations
 ## Undergraduate School
 - UC San Diego(09/2021 - 06/2024) &emsp; Major: Applied Mathematics &emsp; GPA: 3.59/4.0
 
@@ -16,8 +16,14 @@
 - University of Washington(09/2024 - 06//2025)(Expected) &emsp; Major: Applied and Computational Mathematics
 - University of Northwestern(09/2024 - 12/2025)(Expected) &emsp; Major: Data Science(AI track)(Online)
 
-# Language
-- Python, R, Matlab, Java
+# Courses
+## Mathematics
+- Linear Algebra, Calculus, Ordinary/Partial Differential Equations, Numerical Analysis, Mathematical Reasoning, Real Analysis, Discrete Mathematics, Graph Theory, Approximation and Nonlinear Equations, Probability, Mathematical Statistics, Enumerative Combinatorics
+## Data Science/Programming
+- Principles of Data Science, Basic Data Structure for Data Science, Data Structures and Algorithms, Theoretical Foundations of Data Science, Data Science in Practice, Matlab Programming for Engineering Analysis, Engineering Computation
+
+# Languages
+- Python, R, Matlab, Java, C
 
 
 # Professional Experiences
