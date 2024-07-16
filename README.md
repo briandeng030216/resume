@@ -46,7 +46,7 @@
 
 ## NBA Playoff Prediction(06/2024 - 07/2024)(R)
 Link: https://github.com/briandeng030216/NBA-Playoff-Prediction
-- **Data Cleaning and Processing:** Collected, cleaned, and processed large datasets, including player statistics, team performance metrics, and historical playoff results. Standardized data from various sources to create a unified format. Developed essential dataframes using R for efficient data manipulation and analysis.
+- **Data Cleaning and Processing:** Collected, cleaned, and processed large datasets, including player statistics, team performance metrics, and historical playoff results. Standardized data to create a unified format. Developed essential dataframes using R for efficient data manipulation and analysis.
 - **Feature Engineering and Selection:** Performed feature engineering to create new variables that capture important aspects of team and player performance. Employed feature selection techniques to identify the most predictive variables, enhancing the accuracy of the models.
 - **Feature Relation and Importance Analysis:** Plotted the relationships between different features and game results to identify key predictors using R. Generated random forest variable importance plots to highlight the most influential features. Created a number of trees versus error graph to optimize the random forest model, ensuring the best balance between bias and variance.
 - **Predictive Modeling:** Utilized machine learning algorithms, including decision trees, and random forests, to build predictive models for NBA playoff outcomes. And presented entire playoff series result from round1 to NBA final.
@@ -91,7 +91,7 @@ Link: https://github.com/briandeng030216/DSC30-Final-Project
 Link: https://docs.google.com/document/d/1EiRPtrcLS9xAlfOuJU6768QEM4vZ5KnJGX5Xh9OLoWs/edit?usp=sharing
 - **Feature Engineering:** Created new variables such as offensive efficiency and defensive stability to provide deeper insights into team performance. Developed algorithms for feature selection and sorting to rank teams based on these newly engineered variables. Conducted data normalization and standardization to ensure the consistency and accuracy of the variables across different datasets.
 - **Comparative Analysis:** Conducted detailed comparative analysis and hypothesis testing of playing styles across different leagues. Identified key differences, such as the preference for cross plays in the Premier League versus possession play in La Liga. Analyzed historical match data to uncover trends and patterns unique to each league.
-- **Data Visulization:** Employed Matplotlib and Seaborn to create comprehensive visualizations of key metrics across teams and leagues. Created visual comparisons of team performance metrics to highlight strengths and weaknesses.
+- **Data Visulization:** Employed Matplotlib to create comprehensive visualizations of key metrics across teams and leagues. Created visual comparisons of team performance metrics to highlight strengths and weaknesses.
 - **Predictive Modeling:** Applied linear regression, decision trees, and machine learning techniques to build predictive models for game outcomes. Utilized model predictions to assist in strategic planning for team development and match preparations.
 
 <!---
