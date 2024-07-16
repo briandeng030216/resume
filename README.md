@@ -34,12 +34,12 @@
 
 ## Maccura Biotechnology Co. Ltd - Interned Algorithm Engineer(07/2023 - 08/2023)
 - **Medical Equipment Data Evaluation:** Utilized Python to rigorously evaluate the reliability of detected values from new medical equipment. Developed scripts to compare these values against standardized datasets, ensuring accuracy and consistency. Employed statistical techniques to calculate confidence intervals and assess the precision of the detected values. 
-- **Health Assessment:** Automated the evaluation process to handle large datasets efficiently. Generated detailed reports that highlighted discrepancies, trends, and reliability metrics, providing crucial feedback to engineering and quality assurance teams to improve equipment performance.
+- **Health Assessment:** Generated detailed health reports and provided heqlth related feedback and suggestion based on equipment data.
 
 ## State Grid Sichuan Economic Research Institute - Intern Assistant Analyst(07/2022 - 08/2022)
 - **Energy Consumption Modeling:** Predicted and modeled energy consumption distributions across different seasons and regions in Sichuan province. Utilized historical data, time series analysis, and mathematical approximation methods to create accurate forecasts. Developed models to account for regional variations and seasonal fluctuations, enhancing the precision of energy consumption predictions.
 - **Efficiency Analysis:** Conducted an in-depth analysis of district-level electricity consumption patterns to inform the construction of electrical transportation equipment. Collected and processed extensive historical electricity usage data from multiple districts, employing data cleaning techniques to ensure data integrity. Utilized Python and advanced data analytics tools to perform statistical analyses to identify consumption trends, peak usage times, and regional variations.
-- **Actionable Recommendation:** rovided actionable recommendations for the strategic placement and construction of electrical transportation equipment, such as charging stations for electric vehicles and infrastructure for electric public transit. Suggested optimal locations based on consumption patterns, potential demand, and infrastructural feasibility to maximize efficiency and user accessibility.
+- **Actionable Recommendation:** Provided actionable recommendations for the strategic placement and construction of electrical transportation equipment, such as charging stations for electric vehicles and infrastructure for electric public transit. Suggested optimal locations based on consumption patterns, potential demand, and infrastructural feasibility to maximize efficiency and user accessibility.
 
 # Projects
 
