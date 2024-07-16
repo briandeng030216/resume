@@ -28,7 +28,7 @@
 
 # Professional Experiences
 
-## Chinese Academy of Sciences - Research Assistant(07/2023 - 08/2023)
+## Chinese Academy of Sciences - Research Assistant(08/2023 - 09/2023)
 - **Web Scraping Tools Development:** Developed a robust web scraping tool using Python and Beautiful Soup to systematically extract detailed stock post statistics from various financial websites. Implemented data cleaning and preprocessing techniques to ensure the accuracy and reliability of the extracted data. Integrated proxy management and scheduling functionalities to optimize data extraction efficiency and reliability.
 - **Data Processing and Cleaning:** Implemented robust data cleaning procedures using Python and pandas to handle missing values, duplicate entries, and inconsistent formats in the extracted stock post statistics. Utilized techniques such as data imputation, deduplication, and standardization to ensure the integrity, accuracy, and uniformity of the dataset. Employed statistical methods and domain knowledge to validate cleaned data, enhancing the reliability of subsequent analyses and reports.
 
