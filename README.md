@@ -10,7 +10,7 @@
 
 # Educations
 ## Undergraduate School
-- UC San Diego(09/2021 - 06/2024) &emsp; Major: Applied Mathematics &emsp; GPA: 3.59/4.0
+- UC San Diego(09/2021 - 06/2024) &emsp; Major: Applied Mathematics &emsp; GPA: 3.6/4.0
 
 ## Graduate School
 - University of Washington(09/2024 - 06//2025)(Expected) &emsp; Major: Applied and Computational Mathematics
