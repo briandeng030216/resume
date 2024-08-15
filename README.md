@@ -14,7 +14,7 @@
 
 ## Graduate School
 - University of Washington(09/2024 - 12//2025)(Expected) &emsp; Major: Applied and Computational Mathematics
-- 
+  
 # Courses
 ## Mathematics
 - Linear Algebra, Calculus, Ordinary/Partial Differential Equations, Numerical Analysis, Mathematical Reasoning, Real Analysis, Discrete Mathematics, Graph Theory, Approximation and Nonlinear Equations, Probability, Mathematical Statistics, Enumerative Combinatorics
