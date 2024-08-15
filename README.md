@@ -13,9 +13,8 @@
 - UC San Diego(09/2021 - 06/2024) &emsp; Major: Applied Mathematics &emsp; GPA: 3.6/4.0
 
 ## Graduate School
-- University of Washington(09/2024 - 06//2025)(Expected) &emsp; Major: Applied and Computational Mathematics
-- University of Northwestern(09/2024 - 12/2025)(Expected) &emsp; Major: Data Science(AI track)(Online)
-
+- University of Washington(09/2024 - 12//2025)(Expected) &emsp; Major: Applied and Computational Mathematics
+- 
 # Courses
 ## Mathematics
 - Linear Algebra, Calculus, Ordinary/Partial Differential Equations, Numerical Analysis, Mathematical Reasoning, Real Analysis, Discrete Mathematics, Graph Theory, Approximation and Nonlinear Equations, Probability, Mathematical Statistics, Enumerative Combinatorics
