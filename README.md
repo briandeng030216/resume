@@ -21,8 +21,11 @@
 ## Data Science/Programming
 - Principles of Data Science, Basic Data Structure for Data Science, Data Structures and Algorithms, Theoretical Foundations of Data Science, Data Science in Practice, Matlab Programming for Engineering Analysis, Engineering Computation
 
-# Languages
+# Programming Languages
 - Python, R, Matlab, Java, C
+
+# Skills
+- Pandas, Numpy, Matplotlib, Seaborn, Supervised Learning, Unsupervised Learning, Classification, Statistical Modeling, Machine Learning, Statistical Analysis, Calculus, Time Series Forecasting
 
 # Professional Experiences
 
