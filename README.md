@@ -13,7 +13,7 @@
 - UC San Diego(09/2021 - 06/2024) &emsp; Major: Applied Mathematics &emsp; GPA(Major & Ddata Science): 3.73/4.0
 
 ## Graduate School
-- University of Washington(09/2024 - 12//2025)(Expected) &emsp; Major: Applied and Computational Mathematics
+- University of Washington(09/2024 - 2025)(Expected) &emsp; Major: Applied and Computational Mathematics
   
 # Courses
 ## Mathematics
