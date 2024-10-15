@@ -46,9 +46,9 @@
 
 ## MLB Fastball Hitting Analysis(09/2024 - 10/2024)(Python)
 Link: https://github.com/briandeng030216/MLB-Hitting-Analysis
-- Managed 2024 regular season dataset. Create new variables based on K, BB, SLG, BA, etc, to provide deeper insights of hitters.
-- Analyzed players' contact, power, and consistency (pitch types and velocity range) ability in hitting fastball.
-- Visualized players’ hitting ability in multiple dimensions by using pyplot and seaborn.
+- Managed 2024 regular season dataset. Performed factor analysis to uncover hidden players hitting ability.
+- Analyzed and visualized players' contact, power, and consistency (pitch types and velocity range) ability in hitting fastball.
+- Conducted DBSCAN clustering algorithm to split players into different groups based on their performance.
 
 ## NBA Playoff Prediction(06/2024 - 07/2024)(R)
 Link: https://github.com/briandeng030216/NBA-Playoff-Prediction
