@@ -27,7 +27,7 @@
 - Used Pandas and Numpy to handle missing values, duplicate entries, and inconsistent format.
 
 ## Maccura Biotechnology Co. Ltd - Interned Algorithm Engineer(07/2023 - 08/2023)
-- Utilized Python to perform ANOVA and two paired data test to check medical equipment data independence and difference.
+- Utilized Python to perform ANOVA and two samples z-test to check medical equipment data independence and difference.
 - Conducted K-Nearest Neighbors to evaluate the probaility of patients to have diseases and generated health reports.
 
 ## State Grid Sichuan Economic Research Institute - Intern Assistant Analyst(07/2022 - 08/2022)
