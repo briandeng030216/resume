@@ -6,14 +6,11 @@
 - +86 182-2831-6755(CHN)
 ## Email
 - briandeng16@gmail.com(US)
-- briandeng030216@163.com(CHN)
 
-# Educations
+# Education
 ## Undergraduate School
-- UC San Diego(09/2021 - 06/2024) &emsp; Major: Applied Mathematics &emsp; GPA(Major & Ddata Science): 3.73/4.0
-
-## Graduate School
 - University of Washington(09/2024 - 2025)(Expected) &emsp; Major: Applied and Computational Mathematics
+- UC San Diego(09/2021 - 06/2024) &emsp; Major: Applied Mathematics &emsp; GPA(Major & Ddata Science): 3.73/4.0
   
 # Courses
 ## Mathematics
