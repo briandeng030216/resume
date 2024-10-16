@@ -12,7 +12,6 @@
 - UC San Diego(09/2021 - 06/2024) &emsp; Major: Applied Mathematics &emsp; GPA(Major & Ddata Science): 3.73/4.0
   
 # Coursework
-## Mathematics
 - Deep Learning, Scientific Computing, Principles of Data Science, Basic Data Structure for Data Science, Data Structures and Algorithms, Theoretical Foundations of Data Science, Data Science in Practice, Matlab Programming for Engineering Analysis, Engineering Computation, Linear Algebra, Calculus, Ordinary/Partial Differential Equations, Numerical Analysis, Mathematical Reasoning, Real Analysis, Discrete Mathematics, Graph Theory, Approximation and Nonlinear Equations, Probability, Mathematical Statistics, Enumerative Combinatorics
 
 # Programming Language
