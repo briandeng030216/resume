@@ -8,63 +8,57 @@
 - briandeng16@gmail.com(US)
 
 # Education
-## Undergraduate School
 - University of Washington(09/2024 - 2025)(Expected) &emsp; Major: Applied and Computational Mathematics
 - UC San Diego(09/2021 - 06/2024) &emsp; Major: Applied Mathematics &emsp; GPA(Major & Ddata Science): 3.73/4.0
   
-# Courses
+# Coursework
 ## Mathematics
-- Linear Algebra, Calculus, Ordinary/Partial Differential Equations, Numerical Analysis, Mathematical Reasoning, Real Analysis, Discrete Mathematics, Graph Theory, Approximation and Nonlinear Equations, Probability, Mathematical Statistics, Enumerative Combinatorics
-## Data Science/Programming
-- Principles of Data Science, Basic Data Structure for Data Science, Data Structures and Algorithms, Theoretical Foundations of Data Science, Data Science in Practice, Matlab Programming for Engineering Analysis, Engineering Computation
+- Deep Learning, Scientific Computing, Principles of Data Science, Basic Data Structure for Data Science, Data Structures and Algorithms, Theoretical Foundations of Data Science, Data Science in Practice, Matlab Programming for Engineering Analysis, Engineering Computation, Linear Algebra, Calculus, Ordinary/Partial Differential Equations, Numerical Analysis, Mathematical Reasoning, Real Analysis, Discrete Mathematics, Graph Theory, Approximation and Nonlinear Equations, Probability, Mathematical Statistics, Enumerative Combinatorics
 
-# Programming Languages
+# Programming Language
 - Python, R, Matlab, Java, C
 
-# Skills
+# Skill
 - Pandas, Numpy, Matplotlib, Seaborn, Supervised Learning, Unsupervised Learning, Classification, Statistical Modeling, Machine Learning, Statistical Analysis, Calculus, Time Series Forecasting
 
-# Professional Experiences
+# Professional Experience
 
 ## Chinese Academy of Sciences - Research Assistant(08/2023 - 09/2023)
-- **Web Scraping Tools Development:** Developed a robust web scraping tool using Python and Beautiful Soup to systematically extract detailed stock post statistics from various financial websites. Implemented data cleaning and preprocessing techniques to ensure the accuracy and reliability of the extracted data. Integrated proxy management and scheduling functionalities to optimize data extraction efficiency and reliability.
-- **Data Processing and Cleaning:** Implemented robust data cleaning procedures using Python and pandas to handle missing values, duplicate entries, and inconsistent formats in the extracted stock post statistics. Utilized techniques such as data imputation, deduplication, and standardization to ensure the integrity, accuracy, and uniformity of the dataset. Employed statistical methods and domain knowledge to validate cleaned data, enhancing the reliability of subsequent analyses and reports.
+- Developed a web scraping tool, including building proxy management, through Python and Beautiful Soup to extract stock posts statistics.
+- Used Pandas and Numpy to handle missing values, duplicate entries, and inconsistent format.
 
 ## Maccura Biotechnology Co. Ltd - Interned Algorithm Engineer(07/2023 - 08/2023)
-- **Medical Equipment Data Evaluation:** Utilized Python to rigorously evaluate the reliability of detected values from new medical equipment. Developed scripts to compare these values against standardized datasets, ensuring accuracy and consistency. Employed statistical techniques to calculate confidence intervals and assess the precision of the detected values. 
-- **Health Assessment:** Generated detailed health reports and provided heqlth related feedback and suggestion based on equipment data.
+- Utilized Python to perform ANOVA and two paired data test to check medical equipment data independence and difference.
+- Conducted K-Nearest Neighbors to evaluate the probaility of patients to have diseases and generated health reports.
 
 ## State Grid Sichuan Economic Research Institute - Intern Assistant Analyst(07/2022 - 08/2022)
-- **Energy Consumption Modeling:** Predicted and modeled energy consumption distributions across different seasons and regions in Sichuan province. Utilized historical data, time series analysis, and mathematical approximation methods to create accurate forecasts. Developed models to account for regional variations and seasonal fluctuations, enhancing the precision of energy consumption predictions.
-- **Efficiency Analysis:** Conducted an in-depth analysis of district-level electricity consumption patterns to inform the construction of electrical transportation equipment. Collected and processed extensive historical electricity usage data from multiple districts, employing data cleaning techniques to ensure data integrity. Utilized Python and advanced data analytics tools to perform statistical analyses to identify consumption trends, peak usage times, and regional variations.
-- **Actionable Recommendation:** Provided actionable recommendations for the strategic placement and construction of electrical transportation equipment, such as charging stations for electric vehicles and infrastructure for electric public transit. Suggested optimal locations based on consumption patterns, potential demand, and infrastructural feasibility to maximize efficiency and user accessibility.
+- Predicted energy consumption distribution across different seasons and regions by using time series forecasting methods resulting in over 80% accuracy.
+- Conducted statiscial tests including ANOVA test to identify independence between electricity usage and other phenomena.
 
-# Projects
+# Project
 
 ## MLB Fastball Hitting Analysis(09/2024 - 10/2024)(Python)
 Link: https://github.com/briandeng030216/MLB-Hitting-Analysis
-- Managed 2024 regular season dataset. Performed factor analysis to uncover hidden players hitting ability.
-- Analyzed and visualized players' contact, power, and consistency (pitch types and velocity range) ability in hitting fastball.
-- Conducted DBSCAN clustering algorithm to split players into different groups based on their performance.
+- Conducted DBSCAN clustering algorithm to split players into different groups based on their performance in multiple dimensions.
+- Visualized players' contact, power, and consistency (pitch types and velocity ranges) ability through seaborn and matplotlib.
+- Performed factor analysis to determine new ways to calculate players' hitting ability.
+- Analyzed players' hitting ability in multiple dimensions and generated reports.
 
 ## NBA Playoff Prediction(06/2024 - 07/2024)(R)
 Link: https://github.com/briandeng030216/NBA-Playoff-Prediction
-- **Data Cleaning and Processing:** Collected, cleaned, and processed large datasets, including player statistics, team performance metrics, and historical playoff results. Standardized data to create a unified format. Developed essential dataframes using R for efficient data manipulation and analysis.
-- **Feature Engineering and Selection:** Performed feature engineering to create new variables that capture important aspects of team and player performance. Employed feature selection techniques to identify the most predictive variables, enhancing the accuracy of the models.
-- **Feature Relation and Importance Analysis:** Plotted the relationships between different features and game results to identify key predictors using R. Generated random forest variable importance plots to highlight the most influential features. Created a number of trees versus error graph to optimize the random forest model, ensuring the best balance between bias and variance.
-- **Predictive Modeling:** Utilized machine learning algorithms, including decision trees, and random forests, to build predictive models for NBA playoff outcomes. And presented entire playoff series result from round1 to NBA final.
+- Utilized Random Forests to predict NBA 2023 - 2024 season playoff outcomes. The model successfully predicted 5 of 8 series in first round and Boston Celtics as the final champion.
+- Computed and visualized relationships between metrics and game results to identify key predictors.
+- Performed feature engineering to develop new metrics, such as eFG, which resulted in more comprehensive insight of games.
 
 ## Housing Price Prediction(04/2024 - 06/2024)(Python)
 Link: https://github.com/briandeng030216/Housing-Price-Prediction
-- **Data Preparation and Feature Engineering:** Processed and cleaned datasets to handle missing values and inconsistencies, ensuring data integrity for analysis. Transformed categorical variables into numerical representations for comprehensive exploratory data analysis (EDA) and model training. Selected and engineered key features based on their impact on housing prices.
-- **Model Development and Evaluation:** Applied machine learning algorithms including Gradient Boosting and Random Forests to develop predictive models. Conducted rigorous hyperparameter tuning and cross-validation to optimize model performance and ensure robustness. Evaluated model accuracy and reliability using metrics such as R² score and mean squared error to achieve high predictive accuracy.
-- **Outcome:** Successfully developed and deployed predictive models that significantly improved understanding and prediction accuracy of housing prices in Iowa. The project's findings and methodologies contribute to ongoing research and application in real estate analytics and data-driven decision-making.
+- Applied machine learning methods including Gradient Boosting and Random Forests to develop predicting model with 0.925 R-Squared scores on testing sets.
+- Handled missing data and transformed categorical variables into numerical forms.
 
 ## Beer Type Prediction(05/2024)(Python)
 Link: https://github.com/briandeng030216/Beer-Type-Prediction
-- **Data Collection and Preparation:** Imported and merged datasets containing information on breweries and beers. Conducted exploratory data analysis (EDA) to understand data distribution and relationships, utilizing pandas and numpy for data manipulation.
-- **Model Development:** Split data into training (80%) and testing (20%) sets. Implemented a Support Vector Machine (SVM) classifier with a linear kernel. Trained the model on the training set and made predictions on both the training and testing sets.
-- **Model Evaluation:** Generated classification reports, calculating precision, recall, and F1-scores for each beer style. Created confusion matrices to visualize prediction performance across different beer styles.
+- Implemented a Support Vector Machine classifier with a linear kernel and trained the model on the training and testing datasets.
+- Generated classification reports, calculating precision, recall, and F1-scores for each beer style and created confusion matrix to visualize model performance.
 
 ## MLB Ballpark Research(03/2024 - 04/2024)(Python)
 Link: https://github.com/briandeng030216/MLB-ballpark-research
