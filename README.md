@@ -8,7 +8,7 @@
 - briandeng16@gmail.com(US)
 
 # Education
-- University of Washington(09/2024 - 2025)(Expected) &emsp; Major: Applied and Computational Mathematics
+- University of Washington(09/2024 - 2025)(Expected) &emsp; Major: Applied and Computational Mathematics &emsp; GPA: 3.82/4.0
 - UC San Diego(09/2021 - 06/2024) &emsp; Major: Applied Mathematics &emsp; GPA(Major & Ddata Science): 3.73/4.0
   
 # Coursework
