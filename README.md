@@ -20,20 +20,6 @@
 # Skill
 - Pandas, Numpy, Matplotlib, Seaborn, Supervised Learning, Unsupervised Learning, Classification, Statistical Modeling, Machine Learning, Statistical Analysis, Calculus, Time Series Forecasting, Scientific Computation   
 
-# Professional Experience
-
-## Chinese Academy of Sciences - Research Assistant(08/2023 - 09/2023)
-- Developed a web scraping tool, including building proxy management, through Python and Beautiful Soup to extract stock posts statistics.
-- Used Pandas and Numpy to handle missing values, duplicate entries, and inconsistent format.
-
-## Maccura Biotechnology Co. Ltd - Interned Algorithm Engineer(07/2023 - 08/2023)
-- Utilized Python to perform ANOVA and two samples z-test to check medical equipment data independence and difference.
-- Conducted K-Nearest Neighbors to evaluate the probaility of patients to have diseases and generated health reports.
-
-## State Grid Sichuan Economic Research Institute - Intern Assistant Analyst(07/2022 - 08/2022)
-- Predicted energy consumption distribution across different seasons and regions by using time series forecasting methods resulting in over 80% accuracy.
-- Conducted statiscial tests including ANOVA test to identify independence between electricity usage and other phenomena.
-
 # Project
 
 ## MLB Fastball Hitting Analysis(09/2024 - 10/2024)(Python)
